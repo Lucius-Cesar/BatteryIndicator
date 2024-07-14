@@ -4,7 +4,7 @@
   
   One-file react component battery indicator. Can be usefull for kiosk mod or full-screen mode in web apps.
  
-  ![normal](https://github.com/Lucius-Cesar/BatteryIndicator/blob/main/images/low.png)
+  ![normal](https://github.com/Lucius-Cesar/BatteryIndicator/blob/main/images/normal.png)
   ![charging](https://github.com/Lucius-Cesar/BatteryIndicator/blob/main/images/charging.png)
   ![low](https://github.com/Lucius-Cesar/BatteryIndicator/blob/main/images/low.png)
   ![critical](https://github.com/Lucius-Cesar/BatteryIndicator/blob/main/images/critical.png)
