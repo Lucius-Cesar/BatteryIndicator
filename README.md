@@ -2,7 +2,7 @@
   
   ## Description
   
-  One-file react component battery indicator. Can be usefull for kiosk mod or full-screen mode in web apps.
+  One-file component react-only battery indicator componnent . Can be usefull for kiosk mod or full-screen mode in web apps.
  
   ![normal](https://github.com/Lucius-Cesar/BatteryIndicator/blob/main/images/normal.png)
   ![charging](https://github.com/Lucius-Cesar/BatteryIndicator/blob/main/images/charging.png)
